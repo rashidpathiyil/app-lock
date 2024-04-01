@@ -56,7 +56,7 @@ Add the module to your `nuxt.config.ts` file:
 
 ```ts
 export default defineNuxtConfig({
-  modules: ['app-lock'], // Replace with your actual module name
+  modules: ['app-lock'],
 })
 ```
 
