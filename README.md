@@ -33,7 +33,7 @@ The **App Lock** module adds a password protection layer to your Nuxt 3 applicat
 Install the module to your Nuxt application with one command:
 
 ```bash
-npx nuxi module add @rashidpathiyil/app-lock
+npx nuxi module add app-lock
 ```
 
 OR
@@ -43,13 +43,13 @@ OR
 1. **Install the Module**
 
 ```bash
-npm install @rashidpathiyil/app-lock
+npm install app-lock
 ```
 
 or if you use yarn:
 
 ```bash
-pnpm add @rashidpathiyil/app-lock
+pnpm add app-lock
 ```
 
 2. **Configure Nuxt**
@@ -58,7 +58,7 @@ Add the module to your `nuxt.config.ts` file:
 
 ```ts
 export default defineNuxtConfig({
-  modules: ['@rashidpathiyil/app-lock'], // Replace with your actual module name
+  modules: ['app-lock'], // Replace with your actual module name
 })
 ```
 
@@ -117,14 +117,14 @@ When the `APP_LOCK_PASSWORD` environment variable is set, the App Lock screen wi
 
 
 <!-- Badges -->
-[npm-version-src]: https://img.shields.io/npm/v/@rashidpathiyil/app-lock/latest.svg?style=flat&colorA=020420&colorB=00DC82
-[npm-version-href]: https://npmjs.com/package/@rashidpathiyil/app-lock
+[npm-version-src]: https://img.shields.io/npm/v/app-lock/latest.svg?style=flat&colorA=020420&colorB=00DC82
+[npm-version-href]: https://npmjs.com/package/app-lock
 
-[npm-downloads-src]: https://img.shields.io/npm/dm/@rashidpathiyil/app-lock.svg?style=flat&colorA=020420&colorB=00DC82
-[npm-downloads-href]: https://npmjs.com/package/@rashidpathiyil/app-lock
+[npm-downloads-src]: https://img.shields.io/npm/dm/app-lock.svg?style=flat&colorA=020420&colorB=00DC82
+[npm-downloads-href]: https://npmjs.com/package/app-lock
 
-[license-src]: https://img.shields.io/npm/l/@rashidpathiyil/app-lock.svg?style=flat&colorA=020420&colorB=00DC82
-[license-href]: https://npmjs.com/package/@rashidpathiyil/app-lock
+[license-src]: https://img.shields.io/npm/l/app-lock.svg?style=flat&colorA=020420&colorB=00DC82
+[license-href]: https://npmjs.com/package/app-lock
 
 [nuxt-src]: https://img.shields.io/badge/Nuxt-020420?logo=nuxt.js
 [nuxt-href]: https://nuxt.com
