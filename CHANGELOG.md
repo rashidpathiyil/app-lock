@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v1.0.5
+
+[compare changes](https://github.com/rashidpathiyil/app-lock/compare/v1.0.4...v1.0.5)
+
+### 📖 Documentation
+
+- Fix typo ([b94011d](https://github.com/rashidpathiyil/app-lock/commit/b94011d))
+
+### ❤️ Contributors
+
+- Rashid Pathiyil <rashid@iocod.com>
+
 ## v1.0.4
 
 [compare changes](https://github.com/rashidpathiyil/app-lock/compare/v1.0.3...v1.0.4)

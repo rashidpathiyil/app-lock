@@ -1,6 +1,6 @@
 {
   "name": "app-lock",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "The App Lock module adds a password protection layer to your Nuxt 3 applications",
   "repository": "https://github.com/rashidpathiyil/app-lock",
   "license": "MIT",
