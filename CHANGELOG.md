@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v1.0.2
+
+[compare changes](https://github.com/rashidpathiyil/app-lock/compare/v1.0.1...v1.0.2)
+
+### 📖 Documentation
+
+- Update package url ([df581b6](https://github.com/rashidpathiyil/app-lock/commit/df581b6))
+
+### ❤️ Contributors
+
+- Rashid Pathiyil <rashid@iocod.com>
+
 ## v1.0.1
 
 
