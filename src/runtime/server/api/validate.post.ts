@@ -1,3 +1,5 @@
+import { defineEventHandler, readBody } from 'h3'
+
 export default defineEventHandler(async (event) => {
   const password = process.env.APP_LOCK_PASSWORD
   if (!password)

@@ -1,3 +1,12 @@
+import {
+  abortNavigation,
+  defineNuxtRouteMiddleware,
+  useCookie,
+  ref,
+  reloadNuxtApp
+} from '#imports'
+
+
 export default defineNuxtRouteMiddleware(async (to, from) => {
   const isUnlocked = useCookie('isUnlocked', {
     default: () => ref(false),
