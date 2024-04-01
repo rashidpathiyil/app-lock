@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v1.0.6
+
+[compare changes](https://github.com/rashidpathiyil/app-lock/compare/v1.0.5...v1.0.6)
+
+### 📖 Documentation
+
+- Improve readme ([f1d94c0](https://github.com/rashidpathiyil/app-lock/commit/f1d94c0))
+
+### ❤️ Contributors
+
+- Rashid Pathiyil <rashid@iocod.com>
+
 ## v1.0.5
 
 [compare changes](https://github.com/rashidpathiyil/app-lock/compare/v1.0.4...v1.0.5)
