@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v1.0.4
+
+[compare changes](https://github.com/rashidpathiyil/app-lock/compare/v1.0.3...v1.0.4)
+
+### 🏡 Chore
+
+- Add funding information ([9533644](https://github.com/rashidpathiyil/app-lock/commit/9533644))
+
+### ❤️ Contributors
+
+- Rashid Pathiyil <rashid@iocod.com>
+
 ## v1.0.3
 
 [compare changes](https://github.com/rashidpathiyil/app-lock/compare/v1.0.2...v1.0.3)
