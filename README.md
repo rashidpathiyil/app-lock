@@ -43,12 +43,10 @@ OR
 1. **Install the Module**
 
 ```bash
+## if you use NPM
 npm install app-lock
-```
 
-or if you use yarn:
-
-```bash
+## if you use PNPM
 pnpm add app-lock
 ```
 
