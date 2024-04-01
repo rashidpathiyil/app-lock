@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v1.0.3
+
+[compare changes](https://github.com/rashidpathiyil/app-lock/compare/v1.0.2...v1.0.3)
+
+### 🩹 Fixes
+
+- Auto import not working ([764db7e](https://github.com/rashidpathiyil/app-lock/commit/764db7e))
+
+### ❤️ Contributors
+
+- Rashid Pathiyil <rashid@iocod.com>
+
 ## v1.0.2
 
 [compare changes](https://github.com/rashidpathiyil/app-lock/compare/v1.0.1...v1.0.2)
